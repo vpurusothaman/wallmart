@@ -3,3 +3,4 @@ All git commands are very important
 New lines are updated
 To check merging branch
 To check qa branch for rebase
+This file is updated
